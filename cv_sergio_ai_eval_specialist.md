@@ -3,8 +3,8 @@
 **AI Evaluation Specialist · Terminal-Bench Contributor · Technical Benchmark Author**
 
 San Luis, Argentina  
-Email: dominguez-sergioa@hotmail.com · Phone: +54 9 11 3135-3129  
-LinkedIn: https://www.linkedin.com/in/sergio-alberto-dominguez-8a176546/ · GitHub: [tu-url-github.com]
+Email: dominguez-sergioa@hotmail.com / sdsoporte@gmail.com · Phone: +54 9 11 3135-3129  
+LinkedIn: https://www.linkedin.com/in/sergio-alberto-dominguez-8a176546/ · GitHub: https://github.com/sdsoporte
 
 ---
 
@@ -50,7 +50,7 @@ Combines **production-grade engineering background** (AWS, Azure, Docker, Kubern
 - Delivered consistent evaluation framework with .status tracking, diagnosis contracts, and validation pipelines.
 
 ### Charles Taylor InsureTech — Client Service / Cloud Infrastructure Engineer
-**San Luis, Argentina | Aug 2016 - Present (9 years)**
+**San Luis, Argentina | Aug 2016 - Present (10 years)**
 
 - Implement cloud solution changes for multiple Charles Taylor clients in **production and UAT environments**.
 - Operational support for **30+ environments** running **~190 servers** and **~120 virtual machines**.
