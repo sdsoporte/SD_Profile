@@ -4,7 +4,7 @@
 
 San Luis, Argentina  
 Email: dominguez-sergioa@hotmail.com / sdsoporte@gmail.com · Phone: +54 9 11 3135-3129  
-LinkedIn: [https://www.linkedin.com/in/sadominguez-/] · GitHub: [https://github.com/sdsoporte]
+LinkedIn: https://www.linkedin.com/in/sadominguez-/ · GitHub: https://github.com/sdsoporte
 
 ---
 
